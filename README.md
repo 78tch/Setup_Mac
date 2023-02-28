@@ -29,10 +29,10 @@ zipファイルをダウンロードして、展開し、「アプリケーシ�
 git がインストールされていない場合、「今すぐインストールしますか？」と訊いてきてくれるので、「インストール」とする。  
 
 ```sh
-$ git
-$ git config --global user.name "hogehoge"
-$ git config --global user.email hogehoge@example.com  
-$ git config --global credential.helper store  
+hogehoge@MBA ~ % git
+hogehoge@MBA ~ % git config --global user.name "hogehoge"
+hogehoge@MBA ~ % git config --global user.email hogehoge@example.com  
+hogehoge@MBA ~ % git config --global credential.helper store  
 ```  
 ## 6.OBS Studio
 ダウンロードしてインストール。  
