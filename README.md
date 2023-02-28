@@ -18,22 +18,25 @@ Mac のキーボード配列でいうところの「Shift + Comand + 4」であ�
 
 ## 2.ソフトウェアアップデート
 「システム設定 -> 一般 -> ソフトウェアアップデート」で最新の状態にする。  
+
 ## 3.Chrome
+
 ## 4.Garageband
 初回起動時に、「基本サウンドのダウンロード」で2.16GBほどのデータがダウンロードされる。
 続けて、メニューの「Garageband -> サウンドライブラリ -> 利用できるすべてのサウンドをダウンロード」とする。  
 約15GB のデータがダウンロードされる。  
+
 ## 5.Visual Studio Code
 zipファイルをダウンロードして、展開し、「アプリケーション」フォルダに移す。  
 「ターミナル」を立ち上げて、「git」と入力してReturn。  
 git がインストールされていない場合、「今すぐインストールしますか？」と訊いてきてくれるので、「インストール」とする。  
-
 ```sh
 hogehoge@MBA ~ % git
 hogehoge@MBA ~ % git config --global user.name "hogehoge"
 hogehoge@MBA ~ % git config --global user.email hogehoge@example.com  
 hogehoge@MBA ~ % git config --global credential.helper store  
 ```  
+
 ## 6.OBS Studio
 ダウンロードしてインストール。  
 1. 「画面収録」の権限をOBSに許可。
@@ -41,6 +44,7 @@ hogehoge@MBA ~ % git config --global credential.helper store
 3. 「マイク」へのアクセスを許可。
 4. 「アクセシビリティ」の権限を許可して、フォーカスがOBS以外にあっても、ホットキーを動作させる
 なお、これらの権限設定画面は、いずれも「プライバシーとセキュリティ」の中にある。  
+
 ## 7.iPod touch (Gen7)をWebカメラにする
 ケーブルでつなぐと、iPod touch の画面をキャプチャできる。  
 カメラを立ち上げると、Webカメラ的に使える。  
