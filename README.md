@@ -30,7 +30,7 @@ Mac のキーボード配列でいうところの「Shift + Comand + 4」であ�
 zipファイルをダウンロードして、展開し、「アプリケーション」フォルダに移す。  
 「ターミナル」を立ち上げて、「git」と入力してReturn。  
 git がインストールされていない場合、「今すぐインストールしますか？」と訊いてきてくれるので、「インストール」とする。  
-```sh
+```bsh
 hogehoge@MBA ~ % git
 hogehoge@MBA ~ % git config --global user.name "hogehoge"
 hogehoge@MBA ~ % git config --global user.email hogehoge@example.com  
