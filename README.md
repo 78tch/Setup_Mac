@@ -25,8 +25,15 @@ Mac のキーボード配列でいうところの「Shift + Comand + 4」であ�
 約15GB のデータがダウンロードされる。  
 ## 5.Visual Studio Code
 zipファイルをダウンロードして、展開し、「アプリケーション」フォルダに移す。  
-ターミナルを立ち上げて、「git」と入力してReturn。
-git がインストールされていない場合、「今すぐインストールしますか？」と訊いてくれるので、「インストール」とする。
+「ターミナル」を立ち上げて、「git」と入力してReturn。  
+git がインストールされていない場合、「今すぐインストールしますか？」と訊いてきてくれるので、「インストール」とする。  
+
+```sh
+$ git
+$ git config --global user.name "hogehoge"
+$ git config --global user.email hogehoge@example.com  
+$ git config --global credential.helper store  
+```  
 ## 6.OBS Studio
 ダウンロードしてインストール。  
 1. 「画面収録」の権限をOBSに許可。
