@@ -69,8 +69,8 @@ iOS16 以降であれば、「連携カメラ」という機能があるが、iP
 3. GuitarPro（キー）
 4. Transcribe!（キー）
 5. iRealPro（）
-6. TonexOne（キー）
-7. Amplitube（キー）
-8. BOSS TONE STUDIO for RC（不要）
-9. Syncroom（IDでログイン）
-10. Notion
+6. IK Product Manager（TonexOne、Amplitube）（キー）
+7. BOSS TONE STUDIO for RC（不要）
+8. Syncroom（IDでログイン）
+9. Notion
+10. YAMAHA AG Controller
